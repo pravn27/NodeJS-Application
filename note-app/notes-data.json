@@ -1,0 +1,11 @@
+[
+  { "title": "new secret1", "body": "welcome to secret things" },
+  { "title": "NodeJS beginner", "body": "Nodejs course for beginner" },
+  { "title": "Guitar class", "body": "Get a basic guitar class" },
+  { "title": "new macbook", "body": "get new macbook air" },
+  {
+    "title": "Complete note app",
+    "body": "By today evening complete note app"
+  },
+  { "title": "Get guitar", "body": "get a new guitar under 7000" }
+]
